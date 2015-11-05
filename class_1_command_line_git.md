@@ -6,7 +6,7 @@
 * `cd` : change directory (for navigation)
 * `ls` :  list the contents of a directory
 * `cd ..` : go backwards one directory
-* `mkdir` : create a new FILE!  MUAHAHAHAHA
+* `mkdir` : create a new folder
 * `touch` : create a new empty file
 * `cat` : concatenate the contents of a file, either directly to the terminal or actually concatenate multiple files together
 * `.` : your current directory (append this to commands to say 'do the thing to this directory/everything in this directory')
